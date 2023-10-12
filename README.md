@@ -14,7 +14,7 @@
 
 - 👋 Currently in my second year of studies at <strong>University of Minho</strong>.
   
-- 💬 Fluent in English and native Portuguese speaker.
+- 💬 Fluent in English and a native Portuguese speaker.
 
 - 📷 I'm also a passionate photographer, a piano player, and I love connecting with people
 
