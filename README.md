@@ -16,7 +16,7 @@
   
 - 💬 Fluent in English and a native Portuguese speaker.
 
-- 📷 I'm also a passionate photographer, a piano player, and I love connecting with people
+- 📷 I'm also a passionate photographer, piano player and I love connecting with people
 
 
 #
