@@ -12,11 +12,11 @@
 #
 <h3>About Me</h3>
 
-- 👋 Currently in my second year of studies at <strong>University of Minho</strong>.
+- 👋 Currently in the third year of my Bachelor's Degree in Computer Science and Engineering studies at <strong>University of Minho</strong>.
   
 - 💬 Fluent in English and a native Portuguese speaker.
 
-- 📷 I'm also a passionate photographer, piano player and I love connecting with people
+- 📷 I'm also a passionate photographer, and piano player and I love connecting with people
 
 
 #
