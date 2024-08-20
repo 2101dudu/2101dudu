@@ -12,7 +12,7 @@
 #
 <h3>About Me</h3>
 
-- 👋 Currently in the third year of my Bachelor's Degree in Computer Science and Engineering studies at <strong>University of Minho</strong>.
+- 👋 Currently in the third year of my Bachelor's Degree in Computer Science and Engineering at the <strong>University of Minho</strong>.
   
 - 💬 Fluent in English and a native Portuguese speaker.
 
