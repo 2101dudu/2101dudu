@@ -25,6 +25,8 @@
 <div display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" target="_blank" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" target="_blank" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" target="_blank" title="Go" alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank" title="Go" alt="Go" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" target="_blank" title="Haskell" alt="Haskell" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" target="_blank" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" target="_blank" title="Html5" alt="Html5" width="40" height="40"/>
