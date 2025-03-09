@@ -16,7 +16,7 @@
   
 - 💬 Fluent in English and a native Portuguese speaker.
 
-- 📷 I'm also a passionate photographer, and piano player and I love connecting with people
+- 💻 When I'm not optimizing performance, I'm probably self-hosting something or tweaking my Neovim setup.
 
 
 #
@@ -24,10 +24,10 @@
 <h3>Languages and Tools</h3>
 <div display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" target="_blank" title="C" alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" target="_blank" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" target="_blank" title="C++" alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" target="_blank" title="Go" alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" target="_blank" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" target="_blank" title="Haskell" alt="Haskell" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" target="_blank" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
