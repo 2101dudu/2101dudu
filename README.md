@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I´m Eduardo Faria!🙌</h1>
 <h2 align="center">A software engineering student from Portugal</h2>
 <div align="center"> 
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <a href="https://www.linkedin.com/in/fariaeduardo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:eduardo21faria@gmail.com" target="_blank">
+  <a href="mailto:business@eduardofaria.pt" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Mail" alt="Mail Badge"/>
   </a>
 </div>
