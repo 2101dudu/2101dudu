@@ -37,6 +37,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2101dudu&theme=shadow_green" alt="GitHub Stats"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img height=200 align="center" src="https://streak-stats.demolab.com?user=2101dudu&theme=shadow-green&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=2101dudu&theme=shadow-green&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
