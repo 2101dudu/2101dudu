@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I´m Eduardo Faria!🙌</h1>
+<h1 align="center">Hello, I'm Eduardo Faria!🙌</h1>
 <h2 align="center">A software engineering student from Portugal</h2>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/fariaeduardo" target="_blank">
