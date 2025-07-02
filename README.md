@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Eduardo Faria!🙌</h1>
-<h2 align="center">A software engineering student from Portugal</h2>
+<h2 align="center">A software engineering graduate from Portugal</h2>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/fariaeduardo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn Badge"/>
@@ -12,7 +12,7 @@
 #
 <h3>About Me</h3>
 
-- 👋 Currently in the third year of my Bachelor's Degree in Computer Science and Engineering at the <strong>University of Minho</strong>.
+- 👋 Recently concluded my Bachelor's Degree in Computer Science and Engineering at the <strong>University of Minho</strong>.
   
 - 💬 Fluent in English and a native Portuguese speaker.
 
